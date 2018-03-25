@@ -135,9 +135,6 @@ ul#menu li a
 ul#menu li.current a, ul#menu li:hover a
 { color: #FFF;
   background: rgb(122, 89, 71);
-  border-radius: 7px 7px 7px 7px;
-  -moz-border-radius: 7px 7px 7px 7px;
-  -webkit-border: 7px 7px 7px 7px;
   border: 7px 7px 7px 7px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
