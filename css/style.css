@@ -134,10 +134,7 @@ ul#menu li a
   
 ul#menu li.current a, ul#menu li:hover a
 { color: #FFF;
-  background: #3D291E;
-  background: -moz-linear-gradient(#7D5B49, #3D291E);
-  background: -o-linear-gradient(#7D5B49, #3D291E);
-  background: -webkit-linear-gradient(#7D5B49, #3D291E);
+  background: rgb(122, 89, 71);
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
   -webkit-border: 7px 7px 7px 7px;
@@ -149,9 +146,7 @@ ul#menu li.current a, ul#menu li:hover a
 #slogan_container
 { height: 100px;
   background: #3D291E;
-  background: -moz-linear-gradient(#7D5B49, #3D291E);
-  background: -o-linear-gradient(#7D5B49, #3D291E);
-  background: -webkit-linear-gradient(#7D5B49, #3D291E);} 
+} 
 
 #slogan
 { width: 960px;
@@ -276,9 +271,6 @@ ul#menu li.current a, ul#menu li:hover a
   width: 90px;
   padding: 5px 5px 10px 7px;
   background: #3D291E;
-  background: -moz-linear-gradient(#7D5B49, #3D291E);
-  background: -o-linear-gradient(#7D5B49, #3D291E);
-  background: -webkit-linear-gradient(#7D5B49, #3D291E);
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
   -webkit-border: 7px 7px 7px 7px;
