@@ -71,13 +71,13 @@ ol li
   margin-right: auto;}
 
 #header_container
-{ height: 100px;
+{ height: 200px;
   padding-top: 20px;
-  background: #5D3424;}  
+  background: rgb(146, 102, 61);}  
   
 #header
 { width: 960px;
-  height: 100px; 
+  height: 200px; 
   background: transparent;}
 
 #menubar_container
