@@ -8,7 +8,7 @@ html
 body
 { font: normal 85% Arial, Helvetica, sans-serif;
   color: #FFF;
-  background: #FFF url(../images/background.jpg) repeat;
+  background: rgb(146, 102, 61);
 }
 
 p
@@ -78,7 +78,7 @@ ol li
 #header
 { width: 960px;
   height: 420px; 
-  background: transparent url(../images/header.jpg) no-repeat;}
+  background: transparent url() no-repeat;}
 
 #menubar_container
 { height: 100px;
